@@ -1,6 +1,6 @@
-numpy
-scikit-learn
-pandas
+numpy>=2.0.0
+scikit-learn>=1.0
+pandas>=2.0.0
 pickle
 xgboost
 streamlit
